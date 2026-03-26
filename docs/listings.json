@@ -2,9 +2,11 @@
   {
     "listing": "/posts.html",
     "items": [
+      "/posts/news-title/scotvisit.html",
+      "/posts/paper-title/dialingle.html",
       "/posts/event-title/index.html",
-      "/posts/news-title/index.html",
-      "/posts/paper-title/index.html"
+      "/posts/paper-title/lime.html",
+      "/posts/paper-title/senolytics.html"
     ]
   },
   {
@@ -14,9 +16,11 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/news-title/scotvisit.html",
+      "/posts/paper-title/dialingle.html",
       "/posts/event-title/index.html",
-      "/posts/news-title/index.html",
-      "/posts/paper-title/index.html"
+      "/posts/paper-title/lime.html",
+      "/posts/paper-title/senolytics.html"
     ]
   },
   {

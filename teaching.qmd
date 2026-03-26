@@ -1,64 +1,58 @@
 ---
 title: "Teaching"
-subtitle: "I teach."
+subtitle: "I support(ed) bachelor-level courses at ETH Zürich and the University of Edinburgh as a teaching assistant, leading exercise sessions alongside the course teams."
 title-block-banner: false
 ---
 
 
-## Class 1
+## Fundamentals of Web Engineering
 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder1.jpg)
+![](files/images/eth_logo.png)
 
 :::
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Fall 2024](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
+***Department of Computer Science, ETH Zürich***
 
-Class 1 introduction.
+*Teaching Assistant*: [Fall 2023](https://ivia.ch/teaching/webdev)
+
+This course covers the fundamental concepts of web engineering, focusing on the development and maintenance of robust, 
+scalable, and secure web applications. Topics include client-server architecture, web technologies, performance optimisation, 
+and security considerations. Contemporary web development utilises a technology stack that spans from back-ends to front-ends, and includes virtual server environments, 
+document databases, back-end and front-end programming, and UI/UX design. 
+The depth of this stack fosters separation of concern and reuse, but also amounts to a steep learning curve. 
+
 
 :::
 
 :::
 
 
-## Class 2
+## Foundations of Natural Language Processing
 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder2.JPG)
+![](files/images/University_of_Edinburgh.png)
 
 :::
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Spring 2025](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
+***School of Informatics, University of Edinburgh***
 
-Class 2 introduction.
+*Teaching Assistant*: [Spring 2022](https://opencourse.inf.ed.ac.uk/fnlp)
 
-:::
-
-:::
-
-
-## Class 3
-
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder3.JPG)
-
-:::
-
-::: {.g-col-12 .g-col-md-10}
-
-[Spring 2025](https://www.google.com), &nbsp; [Spring 2024](https://www.google.com)
-
-Class 3 introduction. 
+The course is normally taken by third year undergraduates. 
+It introduces you to foundational concepts and techniques in Natural Language Processing and is a prerequisite for Advanced Topics in NLP (ATNLP) in Year 4. 
+We will focus on what makes automatic processing of language unique and challenging: its statistical properties, complex structure, and pervasive ambiguity. This course will cover a range of architectures and algorithms for NLP. 
+We will start with simple models for text classification and generation. We will then discuss neural models to represent the meaning of words and model language, such as Recurrent Neural Networks and Transformers. 
+You will gain insight into the technology behind contemporary Language Models, including pre-training, supervised fine-tuning techniques, and alignment. As part of the course, we will also introduce methodological and ethical considerations 
+(e.g., linguistics, evaluation, data collection, algorithmic bias) that are important for working in the field.   
 
 :::
 

@@ -1,0 +1,52 @@
+---
+title: "Discovery of senolytics using machine learning"
+description: "Machine learning models trained on published data identified three senolytic compounds and reduced experimental screening costs substantially."
+subtitle: "*Nature Communications*"
+author:
+  - name: Vanessa Smer-Barreto
+  - name: Andrea Quintanilla
+  - name: Richard J. R. Elliott
+  - name: John C. Dawson
+  - name: Jiugeng Sun
+  - name: Victor M. Campa
+  - name: Alvaro Lorente-Macias
+  - name: Asier Unciti-Broceta
+  - name: Neil O. Carragher
+  - name: Juan Carlos Acosta
+  - name: Diego A. Oyarzun
+date: "2023-06-10"
+categories: [paper, journal article]
+citation:
+  type: article-journal
+  container-title: "Nature Communications"
+  publisher: "Springer Nature"
+  doi: "10.1038/s41467-023-39120-1"
+  issued: "2023-06-10"
+  volume: 14
+  page: 3445
+  url: https://www.nature.com/articles/s41467-023-39120-1
+google-scholar: true
+---
+
+<!--Include academic icons or buttons-->
+{{< include /files/includes/_academic.qmd >}}
+
+![Training of machine learning models and computational screening.](senolytics.webp)
+
+## Abstract
+
+Cellular senescence is a stress response involved in ageing and diverse disease processes including cancer, type-2 diabetes, osteoarthritis and viral infection. Despite growing interest in targeted elimination of senescent cells, 
+only few senolytics are known due to the lack of well-characterised molecular targets. Here, we report the discovery of three senolytics using cost-effective machine learning algorithms trained solely on published data. 
+We computationally screened various chemical libraries and validated the senolytic action of ginkgetin, periplocin and oleandrin in human cell lines under various modalities of senescence. 
+The compounds have potency comparable to known senolytics, and we show that oleandrin has improved potency over its target as compared to best-in-class alternatives. 
+Our approach led to several hundred-fold reduction in drug screening costs and demonstrates that artificial intelligence can take maximum advantage of small and heterogeneous drug screening data, paving the way for new open science approaches to early-stage drug discovery.
+
+## Links
+
+Published [paper](https://www.nature.com/articles/s41467-023-39120-1.pdf) on Nature Communications. 
+
+```{=html}
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-023-39120-1"></div>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-023-39120-1" data-hide-zero-citations="true" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+```

@@ -11,23 +11,45 @@ css: custom.css
 <!--Include academic icons or buttons-->
 {{< include /files/includes/_academic.qmd >}}
 
-Notes: \* corresponding author; <sup>GS</sup> graduate student advisee; <sup>VS</sup> visiting scholar; ![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} ESI [Highly Cited Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-highly-cited-papers.html) (top 1%); ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width=20 fig-alt="Hot paper"} ESI [Hot Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-hot-papers.html) (top 0.1%) 
+Notes: ^\*^ corresponding author; ^†^ equal contribution.
 
-Total citations as of January 2025:
+## Journal Papers
 
-- [Web of Science](https://www.webofscience.com): 100,000 (h-index = 100)   
-- [Google Scholar](https://scholar.google.com/citations?user=qc6CJjYAAAAJ&hl=en): 179,000 (h-index = 127, i10-index = 377) 
+Smer-Barreto, V.^\*^, Quintanilla, A., Elliott, R. J. R., Dawson, J. C., **Sun, J.**, Campa, V. M., Lorente-Macias, A., Unciti-Broceta, A., Carragher, N. O., Acosta, J. C., & Oyarzún, D. A. (2023). [Discovery of senolytics using machine learning](posts/paper-title/senolytics.qmd). *Nature Communications*, 14, 3445. \[[pdf](https://www.nature.com/articles/s41467-023-39120-1.pdf)\] <span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-023-39120-1" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41467-023-39120-1" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
-## Selected Work
+**Key Words**: Applied Machine Learning; Drug Discovery
 
-Einstein, A., Podolsky, B., & Rosen, N. (1935). [Can quantum-mechanical description of physical reality be considered complete?](posts/paper-title/index.qmd). *Physical review*, 47(10), 777. \[[pdf](https://scholar.google.com/)\] \[[code and data](https://doi.org)\] ![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width=20 fig-alt="Hot paper"} <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRev.47.777" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1103/PhysRev.47.777" data-hide-no-mentions="true" class="altmetric-embed"></div>     
+## Conference Proceedings
 
+**Sun, J.**^\*^, Sevastjanova, R.^†^, Ahmadi, S.^†^, Sennrich, R., & El-Assady, M. (2025). [Dia-Lingle: A Gamified Interface for Dialectal Data Collection](posts/paper-title/dialingle.qmd). *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 3: System Demonstrations)*, 148-158. \[[pdf](https://aclanthology.org/2025.acl-demo.15.pdf)\] <span class="__dimensions_badge_embed__" data-doi="10.18653/v1/2025.acl-demo.15" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.18653/v1/2025.acl-demo.15" data-hide-no-mentions="true" class="altmetric-embed"></div>     
 
-<center><hr style="width:50%"></center>
+**Key Words**: Low-resouerced NLP; Gamification; Visualisation
 
-Einstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. *American Journal of Physics*, 33(5), 367. [[pdf](https://icg.isy.liu.se/en/phd-courses/quantum_foundations/references/Einstein1905b.pdf)] <span class="__dimensions_badge_embed__" data-doi="10.1038/s41560-023-01304-w" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41560-023-01304-w" data-hide-no-mentions="true" class="altmetric-embed"></div>
+## Conference Workshops & Findings
 
+Ni, W., **Sun, J.**, Liu, Y., & El-Assady, M. (2026). [Cross-Cultural Simulation of Citizen Emotional Responses to Bureaucratic Red Tape Using LLM Agents](https://chi2026.acm.org/workshops/accepted/#w45-polisimchi-2026-llm-agent-simulation-for-policy). 
+*PoliSim@CHI 2026: LLM Agent Simulation for Policy*. DOI coming soon.
+<div></div>
+**Key Words**: LLMs, Agent-Simulation, Public Administration
 
+<hr style="width:85%">
+
+Laguna, S.^†^, Heidenreich, J.^†^, **Sun, J.**^†^, Cetin, N.^†^, Al-Hazwani, I., Schlegel, U., Cheng, F., & El-Assady, M. (2023). 
+[ExpLIMEable: A Visual Analytics Approach for Exploring LIME](posts/paper-title/lime.qmd). *IEEE VIS 2023 Workshop on Visualisation for AI Explainability in Healthcare (VAHC)*. \[[pdf](https://el-assady.com/publication/2023lagunaexplimeable/2023lagunaexplimeable.pdf)\] \[[doi](https://doi.org/10.1109/VAHC60858.2023.00011)\] <span class="__dimensions_badge_embed__" data-doi="10.1109/VAHC60858.2023.00011" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1109/VAHC60858.2023.00011" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+**Key Words**: Explainable AI; Visualisation; LIME; Healthcare
+
+<hr style="width:85%">
+
+Laguna, S.^†^, Heidenreich, J.^†^, **Sun, J.**^†^, Cetin, N.^†^, Al-Hazwani, I., Schlegel, U., Cheng, F., & El-Assady, M. (2023). 
+[ExpLIMEable: A Visual Analytics Approach for Exploring LIME](https://openreview.net/forum?id=81FSrQxgEv). *XAI in Action: Past, Present, and Future Applications (NeurIPS XAIA 2023)*. \[[pdf](https://openreview.net/pdf?id=81FSrQxgEv)\] \[[OpenReview](https://openreview.net/forum?id=81FSrQxgEv)\] 
+
+## Preprints
+
+Daniels, S.^†^, **Sun, J.**^†^, Xie, J. (2023). 
+[CADA-GAN: Context-Aware GAN with Data Augmentation](https://arxiv.org/abs/2301.08849). *Arxiv*. \[[pdf](https://arxiv.org/pdf/2301.08849)\]
+<span class="__dimensions_badge_embed__" data-doi="10.48550/arXiv.2301.08849" data-style="large_rectangle"></span>
+<div data-badge-popover="right" data-badge-type="1" data-doi="10.48550/arXiv.2301.08849" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 <!--Include social share buttons-->
 

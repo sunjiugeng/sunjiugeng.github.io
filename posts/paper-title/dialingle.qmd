@@ -1,0 +1,52 @@
+---
+title: "Dia-Lingle: A Gamified Interface for Dialectal Data Collection"
+description: "Dia-Lingle is a gamified interface for dialectal data collection that combines active learning and user engagement to support corpus expansion and dialect labeling."
+subtitle: "*Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 3: System Demonstrations)*"
+author: 
+  - name: Jiugeng Sun
+  - name: Rita Sevastjanova
+  - name: Sina Ahmadi
+  - name: Rico Sennrich
+  - name: Mennatallah El-Assady
+date: "2025-07-01"
+categories: [paper, conference paper]
+image: "dialingle.png"
+citation:
+  type: paper-conference
+  container-title: "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 3: System Demonstrations)"
+  publisher: "Association for Computational Linguistics"
+  publisher-place: "Vienna, Austria"
+  isbn: "979-8-89176-253-4"
+  doi: "10.18653/v1/2025.acl-demo.15"
+  issued: "2025-07"
+  page: 148-158
+  url: https://aclanthology.org/2025.acl-demo.15/
+google-scholar: true
+---
+
+![Dia-Lingle preview](dialingle.png)
+
+<!--Include academic icons or bottons-->
+
+{{< include /files/includes/_academic.qmd >}}
+
+
+## Abstract
+
+Dialects suffer from the scarcity of computational textual resources as they exist predominantly in spoken rather than written form and exhibit remarkable geographical diversity. 
+Collecting dialect data and subsequently integrating it into current language technologies present significant obstacles. 
+Gamification has been proven to facilitate remote data collection processes with great ease and on a substantially wider scale. 
+This paper introduces Dia-Lingle, a gamified interface aimed to improve and facilitate dialectal data collection tasks such as corpus expansion and dialect labelling. 
+The platform features two key components: the first challenges users to rewrite sentences in their dialects, identifies them through a classifier and solicits feedback, and the other one asks users to match sentences to their geographical locations. 
+Dia-Lingle combines active learning with gamified difficulty levels, strategically encouraging prolonged user engagement while efficiently enriching the dialect corpus. Usability evaluation shows that our interface demonstrates high levels of user satisfaction. 
+We provide the link to Dia-Lingle: [https://dia-lingle.ivia.ch/](https://dia-lingle.ivia.ch/), and demo video: [https://youtu.be/0QyJsB8ym64](https://youtu.be/0QyJsB8ym64).
+
+
+## Links
+
+Published [paper](https://aclanthology.org/2025.acl-demo.15/) on 63rd Annual Meeting of the Association for Computational Linguistics (ACL). 
+
+## Poster
+
+[![Dia-Lingle poster](dialingle-poster.png)](dialingle-poster.pdf)
+

@@ -5,99 +5,215 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>Quarto Academic</title>
-<link>https://drganghe.github.io/quarto-academic-website-template/posts.html</link>
-<atom:link href="https://drganghe.github.io/quarto-academic-website-template/posts.xml" rel="self" type="application/rss+xml"/>
-<description>Quarto Academic Website Template adapted by Dr. Gang He</description>
+<title>Jiugeng Sun</title>
+<link>https://sunjiugeng.github.io/posts.html</link>
+<atom:link href="https://sunjiugeng.github.io/posts.xml" rel="self" type="application/rss+xml"/>
+<description>Quarto Academic Website Template adapted by Jiugeng Sun</description>
 <image>
 <url>https://quarto.org/quarto.png</url>
-<title>Quarto Academic</title>
-<link>https://drganghe.github.io/quarto-academic-website-template/posts.html</link>
+<title>Jiugeng Sun</title>
+<link>https://sunjiugeng.github.io/posts.html</link>
 </image>
-<generator>quarto-1.8.26</generator>
-<lastBuildDate>Tue, 15 Oct 2024 04:00:00 GMT</lastBuildDate>
+<generator>quarto-1.9.35</generator>
+<lastBuildDate>Sat, 14 Mar 2026 23:00:00 GMT</lastBuildDate>
 <item>
-  <title>Quarto Academic Website Examples and Tips</title>
-  <link>https://drganghe.github.io/quarto-academic-website-template/</link>
-  <description>Examples and tips for Quarto Academic Website</description>
-  <category>news</category>
-  <guid>https://drganghe.github.io/quarto-academic-website-template/</guid>
-  <pubDate>Tue, 15 Oct 2024 04:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/placeholder1.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Event item</title>
-  <dc:creator>Event </dc:creator>
-  <link>https://drganghe.github.io/quarto-academic-website-template/posts/event-title/</link>
+  <title>ScotScape Visit</title>
+  <dc:creator>Jiugeng Sun</dc:creator>
+  <link>https://sunjiugeng.github.io/posts/news-title/scotvisit.html</link>
   <description><![CDATA[ 
 
 
 
 
-<p><a href="https://drganghe.github.io/quarto-academic-website-template/"><img src="https://drganghe.github.io/quarto-academic-website-template/files/images/placeholder2.JPG" class="img-fluid" style="width:90.0%"></a></p>
-<!--Include social share buttons-->
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
-Using includes will make edits easier, will only need to add or remove button here if needed.
-https://quarto.org/docs/authoring/includes.html
--->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://sunjiugeng.github.io/files/images/ScotScape.png" class="img-fluid figure-img"></p>
+<figcaption>Project picture of <a href="https://negotiating-landscape-scotland.com/">ScotScape</a></figcaption>
+</figure>
 </div>
-<script async="" src="https://static.addtoany.com/menu/page.js"></script>
-
-
-
- ]]></description>
-  <category>event</category>
-  <category>presentation</category>
-  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/event-title/</guid>
-  <pubDate>Tue, 03 Sep 2024 04:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/placeholder2.JPG" medium="image"/>
-</item>
-<item>
-  <title>News item</title>
-  <dc:creator>News </dc:creator>
-  <link>https://drganghe.github.io/quarto-academic-website-template/posts/news-title/</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="summary" class="level2">
-<h2 class="anchored" data-anchor-id="summary">Summary</h2>
-<p>About the news</p>
-<!--Include social share buttons-->
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
-Using includes will make edits easier, will only need to add or remove button here if needed.
-https://quarto.org/docs/authoring/includes.html
--->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+<section id="project-background" class="level2">
+<h2 class="anchored" data-anchor-id="project-background">Project Background</h2>
+<p>For years the research group <a href="https://ecology.ethz.ch/the-group.html">Ecosystem Management (EM) Lab</a> that I work with has been wanting to develop a comprehensive toolkit that supports land managers, stakeholders, and anyone involved in land use change with facilitating discussions, exploring ideas, and putting together land management plans. They started with the question on how to simplify landscape management in Scotland and other places, offer people an immersive experience where they can connect, discuss desired changes, and propose alternative landscape scenarios based on a shared vision. Thus they came up with the idea that they could use strategy game to encourage people to participate and express their ideas.</p>
+<p>Usually they would start with understanding the desires of local <strong>actors</strong> regarding landscape management. They selected which actors would become playable characters in the game and identified the <strong>resources</strong> to feature in the game. They then considered the choices each character would have, such as a farmer deciding what crops to plant and animals to raise. Next, they designed the underlying mechanics, including gameplay and rules, and translated these into game components like the board (landscape), meeples (laborers), tokens (representing different crops, animals, and trees), and money. In the end, they would create the board game based on this.</p>
+<p>People with different backgrounds join the workshop session, play the game, and finally collect insightful ideas during the debriefing session. This seems nice and good, yet they often had a problem during the debriefing session, which is they could not always produce useful takeaways for the participants! In the strategy game session, they would typically run several rounds and tried to engage everyone to express their opinions. This typically resulted in that the session mediator could not remember fully what had happened during the conversations. Multi-party dialogue is hard to track and implicit dynamics are not easy to analyse. This was the moment when I finished my master thesis and my thesis supervisor, Menna, recommended me to the group, hoping we can build a visual analytical platform for discourse analysis on the multi-party dialogue data.</p>
+</section>
+<section id="before-the-visit" class="level2">
+<h2 class="anchored" data-anchor-id="before-the-visit">Before the Visit</h2>
+<p>I joined the team months before the trip and tried to understand how the researchers might establish their research questions or objectives from the Environmental science perspectives as this was a complete new experience to me. The project got even more interesting to me when I realised this could take me back to Scotland again as I had been leaving and never back to Scotland for three years since I finished my bachelor degree at the University of Edinburgh :P</p>
+<p>I was happy but I also noticed some difficulties in implementing the toolkit for the local people. At the beginning, I realsied how complex the environmental topics could be when they do the workshops. The motivation for the group is that they would love the participants to freely express all of their feelings and their decisions. The strategy game they developed was actually rather complex to me such that I could actually do very different things! They just want AI to capture those but what are those exactly? In addition, the participants are allowed to walk around the chat with different people. There is not a very clear anchor point when I could manually programme it. There are lots of research directions on this so-called discourse analysis (laugh). I realised I had to go and visit the local Scottish people to undertand what they really need. Meanwhile I also ran some basic pipelines on the previous recorded discourse data and created lots of different possible visualisations. I wanted to go and present my idea to the local people and hopefully they could accept the ideas.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://sunjiugeng.github.io/files/images/ScotScape Teaser.png" class="img-fluid figure-img"></p>
+<figcaption>Teaser image for discourse analysis</figcaption>
+</figure>
 </div>
-<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+</section>
+<section id="activity-logs" class="level2">
+<h2 class="anchored" data-anchor-id="activity-logs">Activity Logs</h2>
+<p>We visited many potential project partners over the week, including <a href="https://www.nature.scot/"><strong>NatureScot</strong></a>, <a href="https://glenkens.scot/"><strong>Glenkens</strong></a>, <a href="https://www.gsabiosphere.org.uk/"><strong>Galloway &amp; Southern Ayrshire (GSA) Biosphere</strong></a>, and <a href="https://bioregioningtayside.scot/"><strong>Bioregioning Tayside</strong></a>.</p>
+<p><a href="https://www.nature.scot/"><strong>NatureScot</strong></a> is a Scottish statutory nature agency, working to improve the natural environment in Scotland and inspire everyone to care more about it, maintaining and enhancing biodiversity, geodiversity, and the natural elements of Scotland’s landscapes and seascapes. The EM Lab is in collaboration with NatureScot for the extension development of the <a href="https://www.nature.scot/doc/natural-capital-tool">Natural Capital Tool</a>, which is a decision support tool that facilitates a natural capital approach to land management in Scotland, that NatureScot spends years developing, particularly focusing on the landscape of Scotland. The postdoctoral researcher, <a href="https://www.linkedin.com/in/xuezhu-zhai-9bb766264/">Dr.&nbsp;Xuezhu Zhai</a>, from the EM Lab, has been developing a 3D immersive visualisation interface for the facillitation of the citizen’s engagement in the participatory workshops such that the users would enhance their experience and understanding of the landscape management. I got to learn that assessing and calculating the natural capital indicators are non-trivial. NatureScot mainly works on the 2D map only, which could be a reliable toolkit for the ecology experts, but prevents the general public from fully benefitting it. I genuinely believe that my colleague, <a href="https://www.linkedin.com/in/xuezhu-zhai-9bb766264/">Dr.&nbsp;Zhai’s</a> work could deeply change the way how people interact with the landscape. The idea of combining the AI discourse analysis and 3D landscape intervention toolkit emerged between her and me. We are thinking whether there can be a even better way to automatically and immersively visualise the decisions of the participants during workshops so that it would provide as much educational information as possible.</p>
+<p><a href="https://glenkens.scot/"><strong>Glenkens</strong></a> refers to the network of community organisations centred on the Glenkens area of Dumfries and Galloway, anchored by the <a href="https://gcat.scot/">Glenkens Community &amp; Arts Trust (GCAT)</a>. <a href="https://www.gsabiosphere.org.uk/"><strong>GSA Biosphere</strong></a> is a registered Scottish charity and partnership organisation working across nearly 9,800 km² of southwest Scotland’s land and sea, which is the largest <a href="https://www.unesco.org/en/mab/wnbr/about"><strong>UNESCO Biosphere</strong></a> in the UK, encompassing internationally important wildlife habitats, communities with distinct cultural identities, and historic landmarks. <a href="https://bioregioningtayside.scot/"><strong>Bioregioning Tayside</strong></a> is a Scottish organisation working to reframe how people relate to the places they inhabit through the lens of the bioregion. It has recently produced the first comprehensive bioregional strategy for ecological and cultural renewal within the Tay River System, guiding a transition from extractive and fragmented practices towards regenerative, place-based stewardship. We together visited many people from the relevant organisations. This was a very unique experience to me as being a nerdy programmer from Computer Science discipline (joking, I am not nerdy :P). I visited lots of the places that I have never been to, even though I stayed in Edinburgh for four years, mainly around the southwest part of Scotland, called by the people there, the land that is forgotten. I presented my interface and explained the mechanisms in real deatils about how I envision this could help and benefit the people. I surprisingly got a very positive feedback from the audience. Therefore, tech people are important! One of the people frm Glenkens wrote to me afterwards, saying that <em>I was really impressed by the analysis tool - I confess I was very very sceptical when I read about it, having seen previous attempts at automated discourse analysis.</em></p>
+<p>People actually bought in the ideas! And also for the 3D immersive visualisation toolkit the participants would love to see it as they regarded the tool as an enhancement that could help their communications. And they were grateful that we were prioritising their desires and needs. People were also very nice to us and would love to see more in general. To come up with a good digital solution and make it really useful for everyone are hard, but using advanced technologies to tackle systematic issues like cultural marginalisation and economic disparities on a global scale would always be my ultimate goal. I love to talk with the people, who truly believe that the land grows on them. The world is never getting better by the people who just play around but never grow the potatoes and build the trees, right?&nbsp; This was a unique experience to me as I always said. I don’t know how much I can do to help the people. Yet I will always carry this wherever I go.</p>
+<p>I also wanna share some pictures we took along the journey. We were also invited to participate a workshop that was hosted in Blairgowrie. Enjoy the beauties of Scotland and get the spritis of Scotland :)</p>
+</section>
+<section id="photo-gallery" class="level2">
+<h2 class="anchored" data-anchor-id="photo-gallery">Photo Gallery</h2>
+<style>
+  .scot-carousel {
+    max-width: 900px;
+    margin: 1rem auto 0 auto;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+    position: relative;
+  }
+
+  .scot-carousel-track {
+    display: flex;
+    overflow-x: hidden;
+    scroll-snap-type: x mandatory;
+    scroll-behavior: smooth;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .scot-carousel-track::-webkit-scrollbar {
+    height: 10px;
+  }
+
+  .scot-carousel-track::-webkit-scrollbar-thumb {
+    background: #c6c6c6;
+    border-radius: 999px;
+  }
+
+  .scot-carousel-item {
+    flex: 0 0 100%;
+    scroll-snap-align: start;
+    margin: 0;
+    background: #f7f7f7;
+  }
+
+  .scot-carousel-item img {
+    width: 100%;
+    height: 520px;
+    object-fit: cover;
+    display: block;
+  }
+
+  .scot-carousel-item figcaption {
+    padding: 0.65rem 0.9rem 0.8rem 0.9rem;
+    font-size: 0.95rem;
+  }
+
+  .scot-carousel-controls {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    width: 100%;
+    transform: translateY(-50%);
+    display: flex;
+    justify-content: space-between;
+    padding: 0 0.7rem;
+    pointer-events: none;
+  }
+
+  .scot-carousel-btn {
+    width: 44px;
+    height: 44px;
+    border: 1px solid rgba(255, 255, 255, 0.85);
+    background: rgba(30, 30, 30, 0.35);
+    color: #fff;
+    border-radius: 10px;
+    font-size: 1.6rem;
+    line-height: 1;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    pointer-events: auto;
+    backdrop-filter: blur(1.5px);
+  }
+
+  .scot-carousel-btn:hover {
+    background: rgba(30, 30, 30, 0.5);
+  }
+</style>
+
+<div class="scot-carousel" aria-label="Scotland trip photo gallery" id="scot-carousel">
+  <div class="scot-carousel-track" id="scot-carousel-track">
+    <figure class="scot-carousel-item figure">
+      <img src="https://sunjiugeng.github.io/files/images/ScotScape 1.jpg" alt="Scotland trip photo 1" class="figure-img">
+      <figcaption>Edinburgh Waverley Station</figcaption>
+    </figure>
+    <figure class="scot-carousel-item figure">
+      <img src="https://sunjiugeng.github.io/files/images/ScotScape 2.jpg" alt="Scotland trip photo 2" class="figure-img">
+      <figcaption>Wild Sheeps from Galloway. They stare at us for food :P</figcaption>
+    </figure>
+    <figure class="scot-carousel-item figure">
+      <img src="https://sunjiugeng.github.io/files/images/ScotScape 3.jpg" alt="Scotland trip photo 3" class="figure-img">
+      <figcaption>Workshop in Blairgowrie</figcaption>
+    </figure>
+    <figure class="scot-carousel-item figure">
+      <img src="https://sunjiugeng.github.io/files/images/ScotScape 4.png" alt="Scotland trip photo 4" class="figure-img">
+      <figcaption>meeting with Glenkens and Bioregioning Tayside at Colmonell</figcaption>
+    </figure>
+    <figure class="scot-carousel-item figure">
+      <img src="https://sunjiugeng.github.io/files/images/ScotScape 5.jpg" alt="Scotland trip photo 4" class="figure-img">
+      <figcaption>nice weather and cafe in Perth</figcaption>
+    </figure>
+  </div>
+  <div class="scot-carousel-controls">
+    <button type="button" class="scot-carousel-btn" id="scot-prev" aria-label="Previous image">‹</button>
+    <button type="button" class="scot-carousel-btn" id="scot-next" aria-label="Next image">›</button>
+  </div>
+</div>
+
+<script>
+  (function () {
+    const track = document.getElementById("scot-carousel-track");
+    const slides = track ? track.querySelectorAll(".scot-carousel-item") : [];
+    const prevBtn = document.getElementById("scot-prev");
+    const nextBtn = document.getElementById("scot-next");
+    if (!track || !prevBtn || !nextBtn || slides.length === 0) return;
+
+    let idx = 0;
+    const goTo = (i) => {
+      idx = (i + slides.length) % slides.length;
+      slides[idx].scrollIntoView({ behavior: "smooth", inline: "start", block: "nearest" });
+    };
+
+    prevBtn.addEventListener("click", () => goTo(idx - 1));
+    nextBtn.addEventListener("click", () => goTo(idx + 1));
+  })();
+</script>
 
 
 </section>
 
  ]]></description>
   <category>news</category>
-  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/news-title/</guid>
-  <pubDate>Mon, 24 Jun 2024 04:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/placeholder3.JPG" medium="image"/>
+  <guid>https://sunjiugeng.github.io/posts/news-title/scotvisit.html</guid>
+  <pubDate>Sat, 14 Mar 2026 23:00:00 GMT</pubDate>
+  <media:content url="https://sunjiugeng.github.io/files/images/ScotScape.png" medium="image" type="image/png" height="72" width="144"/>
 </item>
 <item>
-  <title>Can quantum-mechanical description of physical reality be considered complete?</title>
-  <dc:creator>Albert Einstein</dc:creator>
-  <dc:creator>Boris Podolsky</dc:creator>
-  <dc:creator>Nathan Rosen</dc:creator>
-  <link>https://drganghe.github.io/quarto-academic-website-template/posts/paper-title/</link>
+  <title>Dia-Lingle: A Gamified Interface for Dialectal Data Collection</title>
+  <dc:creator>Jiugeng Sun</dc:creator>
+  <dc:creator>Rita Sevastjanova</dc:creator>
+  <dc:creator>Sina Ahmadi</dc:creator>
+  <dc:creator>Rico Sennrich</dc:creator>
+  <dc:creator>Mennatallah El-Assady</dc:creator>
+  <link>https://sunjiugeng.github.io/posts/paper-title/dialingle.html</link>
   <description><![CDATA[ 
 
 
 
 
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://sunjiugeng.github.io/posts/paper-title/dialingle.png" class="img-fluid figure-img"></p>
+<figcaption>Dia-Lingle preview</figcaption>
+</figure>
+</div>
 <!--Include academic icons or bottons-->
 <!-- 
 Load Academicons v1: https://jpswalsh.github.io/academicons/
@@ -114,40 +230,234 @@ https://badge.dimensions.ai/
 <script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
 <section id="abstract" class="level2">
 <h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
-<p>In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.</p>
+<p>Dialects suffer from the scarcity of computational textual resources as they exist predominantly in spoken rather than written form and exhibit remarkable geographical diversity. Collecting dialect data and subsequently integrating it into current language technologies present significant obstacles. Gamification has been proven to facilitate remote data collection processes with great ease and on a substantially wider scale. This paper introduces Dia-Lingle, a gamified interface aimed to improve and facilitate dialectal data collection tasks such as corpus expansion and dialect labelling. The platform features two key components: the first challenges users to rewrite sentences in their dialects, identifies them through a classifier and solicits feedback, and the other one asks users to match sentences to their geographical locations. Dia-Lingle combines active learning with gamified difficulty levels, strategically encouraging prolonged user engagement while efficiently enriching the dialect corpus. Usability evaluation shows that our interface demonstrates high levels of user satisfaction. We provide the link to Dia-Lingle: <a href="https://dia-lingle.ivia.ch/">https://dia-lingle.ivia.ch/</a>, and demo video: <a href="https://youtu.be/0QyJsB8ym64">https://youtu.be/0QyJsB8ym64</a>.</p>
 </section>
 <section id="links" class="level2">
 <h2 class="anchored" data-anchor-id="links">Links</h2>
-<p>Published <a href="https://journals.aps.org/pr/pdf/10.1103/PhysRev.47.777">paper</a></p>
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1103/PhysRev.47.777"></div>
-
-<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRev.47.777" data-hide-zero-citations="true" data-style="small_circle"></span><script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<p>Published <a href="https://aclanthology.org/2025.acl-demo.15/">paper</a> on 63rd Annual Meeting of the Association for Computational Linguistics (ACL).</p>
+</section>
+<section id="poster" class="level2">
+<h2 class="anchored" data-anchor-id="poster">Poster</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="dialingle-poster.pdf"><img src="https://sunjiugeng.github.io/posts/paper-title/dialingle-poster.png" class="img-fluid figure-img"></a></p>
+<figcaption>Dia-Lingle poster</figcaption>
+</figure>
+</div>
 
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{einstein1935,
-  author = {Einstein, Albert and Podolsky, Boris and Rosen, Nathan},
-  title = {Can Quantum-Mechanical Description of Physical Reality Be
-    Considered Complete?},
-  journal = {Physical Review},
-  volume = {47},
-  number = {7938},
-  pages = {777-80},
-  date = {1935-05-15},
-  url = {https://journals.aps.org/pr/pdf/10.1103/PhysRev.47.777},
-  doi = {10.1103/PhysRev.47.777},
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@inproceedings{sun2025,
+  author = {Sun, Jiugeng and Sevastjanova, Rita and Ahmadi, Sina and
+    Sennrich, Rico and El-Assady, Mennatallah},
+  publisher = {Association for Computational Linguistics},
+  title = {Dia-Lingle: {A} {Gamified} {Interface} for {Dialectal} {Data}
+    {Collection}},
+  booktitle = {Proceedings of the 63rd Annual Meeting of the Association
+    for Computational Linguistics (Volume 3: System Demonstrations)},
+  pages = {148-158},
+  date = {2025-07},
+  address = {Vienna, Austria},
+  url = {https://aclanthology.org/2025.acl-demo.15/},
+  doi = {10.18653/v1/2025.acl-demo.15},
+  isbn = {979-8-89176-253-4},
   langid = {en}
 }
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-einstein1935" class="csl-entry quarto-appendix-citeas">
-Einstein, Albert, Boris Podolsky, and Nathan Rosen. 1935. <span>“Can
-Quantum-Mechanical Description of Physical Reality Be Considered
-Complete?”</span> <em>Physical Review</em> 47 (7938): 777–80. <a href="https://doi.org/10.1103/PhysRev.47.777">https://doi.org/10.1103/PhysRev.47.777</a>.
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-sun2025" class="csl-entry quarto-appendix-citeas">
+Sun, Jiugeng, Rita Sevastjanova, Sina Ahmadi, Rico Sennrich, and
+Mennatallah El-Assady. 2025. <span>“Dia-Lingle: A Gamified Interface for
+Dialectal Data Collection.”</span> <em>Proceedings of the 63rd Annual
+Meeting of the Association for Computational Linguistics (Volume 3:
+System Demonstrations)</em> (Vienna, Austria), July, 148–58. <a href="https://doi.org/10.18653/v1/2025.acl-demo.15">https://doi.org/10.18653/v1/2025.acl-demo.15</a>.
 </div></div></section></div> ]]></description>
   <category>paper</category>
-  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/paper-title/</guid>
-  <pubDate>Wed, 15 May 1935 04:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/quarto-academic-website-template/posts/paper-title/featured.jpg" medium="image" type="image/jpeg"/>
+  <category>conference paper</category>
+  <guid>https://sunjiugeng.github.io/posts/paper-title/dialingle.html</guid>
+  <pubDate>Mon, 30 Jun 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://sunjiugeng.github.io/posts/paper-title/dialingle.png" medium="image" type="image/png" height="50" width="144"/>
+</item>
+<item>
+  <title>Event item</title>
+  <dc:creator>Event </dc:creator>
+  <link>https://sunjiugeng.github.io/posts/event-title/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><a href="https://drganghe.github.io/quarto-academic-website-template/"><img src="https://sunjiugeng.github.io/files/images/placeholder2.JPG" class="img-fluid" style="width:90.0%"></a></p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+
+ ]]></description>
+  <category>event</category>
+  <category>presentation</category>
+  <guid>https://sunjiugeng.github.io/posts/event-title/</guid>
+  <pubDate>Mon, 02 Sep 2024 22:00:00 GMT</pubDate>
+  <media:content url="https://sunjiugeng.github.io/files/images/placeholder2.JPG" medium="image"/>
+</item>
+<item>
+  <title>ExpLIMEable: A Visual Analytics Approach for Exploring LIME</title>
+  <dc:creator>Sonia Laguna</dc:creator>
+  <dc:creator>Julian N. Heidenreich</dc:creator>
+  <dc:creator>Jiugeng Sun</dc:creator>
+  <dc:creator>Nilufer Cetin</dc:creator>
+  <dc:creator>Ibrahim Al-Hazwani</dc:creator>
+  <dc:creator>Udo Schlegel</dc:creator>
+  <dc:creator>Furui Cheng</dc:creator>
+  <dc:creator>Mennatallah El-Assady</dc:creator>
+  <link>https://sunjiugeng.github.io/posts/paper-title/lime.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<!--Include academic icons or buttons-->
+<!-- 
+Load Academicons v1: https://jpswalsh.github.io/academicons/
+-->
+<p><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"></p>
+<p><link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"></p>
+<!---
+The following code are needed to show dimension citation and altmetrics.
+https://api.altmetric.com/embeds.html
+https://badge.dimensions.ai/
+--->
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://sunjiugeng.github.io/posts/paper-title/lime.avif" class="img-fluid figure-img"></p>
+<figcaption>Main pipeline of <em>ExpLIMEable</em>.</figcaption>
+</figure>
+</div>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>We introduce ExpLIMEable for enhancing the understanding of Local Interpretable Model-Agnostic Explanations (LIME), with a focus on medical image analysis. LIME is a popular and widely used method in explainable artificial intelligence (XAI) that provides locally faithful and interpretable post-hoc explanations for black box models. However, LIME explanations are not always robust due to variations in perturbation techniques and the selection of interpretable functions. The proposed visual analytics application aims to address these concerns by enabling the users to freely explore and compare the explanations generated by different LIME parameter instances. The application utilises a convolutional neural network (CNN) for brain MRI tumor classification and allows users to customize post-hoc LIME parameters to gain insights into the model’s decision-making process. The developed application assists machine learning developers in understanding the limitations of LIME and its sensitivity to different parameters, as well as the doctors in providing an explanation to machine learning models, enabling more informed decision-making, with the ultimate goal of improving its robustness and explanation quality.</p>
+</section>
+<section id="links" class="level2">
+<h2 class="anchored" data-anchor-id="links">Links</h2>
+<p>Published <a href="https://ieeexplore.ieee.org/abstract/document/10356815">paper</a> on the Workshop on Visual Analytics in Healthcare (VAHC), IEEE VIS 2023</p>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1109/VAHC60858.2023.00011" data-hide-zero-citations="true" data-style="small_circle"></span><script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@inproceedings{laguna2023,
+  author = {Laguna, Sonia and N. Heidenreich, Julian and Sun, Jiugeng
+    and Cetin, Nilufer and Al-Hazwani, Ibrahim and Schlegel, Udo and
+    Cheng, Furui and El-Assady, Mennatallah},
+  publisher = {IEEE},
+  title = {ExpLIMEable: {A} {Visual} {Analytics} {Approach} for
+    {Exploring} {LIME}},
+  booktitle = {Workshop on Visual Analytics in Healthcare (VAHC)},
+  pages = {27-33},
+  date = {2023},
+  url = {https://doi.org/10.1109/VAHC60858.2023.00011},
+  doi = {10.1109/VAHC60858.2023.00011},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-laguna2023" class="csl-entry quarto-appendix-citeas">
+Laguna, Sonia, Julian N. Heidenreich, Jiugeng Sun, et al. 2023.
+<span>“ExpLIMEable: A Visual Analytics Approach for Exploring
+LIME.”</span> <em>Workshop on Visual Analytics in Healthcare
+(VAHC)</em>, 27–33. <a href="https://doi.org/10.1109/VAHC60858.2023.00011">https://doi.org/10.1109/VAHC60858.2023.00011</a>.
+</div></div></section></div> ]]></description>
+  <category>paper</category>
+  <category>workshop paper</category>
+  <guid>https://sunjiugeng.github.io/posts/paper-title/lime.html</guid>
+  <pubDate>Sat, 30 Sep 2023 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Discovery of senolytics using machine learning</title>
+  <dc:creator>Vanessa Smer-Barreto</dc:creator>
+  <dc:creator>Andrea Quintanilla</dc:creator>
+  <dc:creator>Richard J. R. Elliott</dc:creator>
+  <dc:creator>John C. Dawson</dc:creator>
+  <dc:creator>Jiugeng Sun</dc:creator>
+  <dc:creator>Victor M. Campa</dc:creator>
+  <dc:creator>Alvaro Lorente-Macias</dc:creator>
+  <dc:creator>Asier Unciti-Broceta</dc:creator>
+  <dc:creator>Neil O. Carragher</dc:creator>
+  <dc:creator>Juan Carlos Acosta</dc:creator>
+  <dc:creator>Diego A. Oyarzun</dc:creator>
+  <link>https://sunjiugeng.github.io/posts/paper-title/senolytics.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<!--Include academic icons or buttons-->
+<!-- 
+Load Academicons v1: https://jpswalsh.github.io/academicons/
+-->
+<p><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"></p>
+<p><link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"></p>
+<!---
+The following code are needed to show dimension citation and altmetrics.
+https://api.altmetric.com/embeds.html
+https://badge.dimensions.ai/
+--->
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://sunjiugeng.github.io/posts/paper-title/senolytics.webp" class="img-fluid figure-img"></p>
+<figcaption>Training of machine learning models and computational screening.</figcaption>
+</figure>
+</div>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>Cellular senescence is a stress response involved in ageing and diverse disease processes including cancer, type-2 diabetes, osteoarthritis and viral infection. Despite growing interest in targeted elimination of senescent cells, only few senolytics are known due to the lack of well-characterised molecular targets. Here, we report the discovery of three senolytics using cost-effective machine learning algorithms trained solely on published data. We computationally screened various chemical libraries and validated the senolytic action of ginkgetin, periplocin and oleandrin in human cell lines under various modalities of senescence. The compounds have potency comparable to known senolytics, and we show that oleandrin has improved potency over its target as compared to best-in-class alternatives. Our approach led to several hundred-fold reduction in drug screening costs and demonstrates that artificial intelligence can take maximum advantage of small and heterogeneous drug screening data, paving the way for new open science approaches to early-stage drug discovery.</p>
+</section>
+<section id="links" class="level2">
+<h2 class="anchored" data-anchor-id="links">Links</h2>
+<p>Published <a href="https://www.nature.com/articles/s41467-023-39120-1.pdf">paper</a> on Nature Communications.</p>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-023-39120-1"></div>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-023-39120-1" data-hide-zero-citations="true" data-style="small_circle"></span><script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{smer-barreto2023,
+  author = {Smer-Barreto, Vanessa and Quintanilla, Andrea and J. R.
+    Elliott, Richard and C. Dawson, John and Sun, Jiugeng and M. Campa,
+    Victor and Lorente-Macias, Alvaro and Unciti-Broceta, Asier and O.
+    Carragher, Neil and Carlos Acosta, Juan and A. Oyarzun, Diego},
+  publisher = {Springer Nature},
+  title = {Discovery of Senolytics Using Machine Learning},
+  journal = {Nature Communications},
+  volume = {14},
+  pages = {3445},
+  date = {2023-06-10},
+  url = {https://www.nature.com/articles/s41467-023-39120-1},
+  doi = {10.1038/s41467-023-39120-1},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-smer-barreto2023" class="csl-entry quarto-appendix-citeas">
+Smer-Barreto, Vanessa, Andrea Quintanilla, Richard J. R. Elliott, et al.
+2023. <span>“Discovery of Senolytics Using Machine Learning.”</span>
+<em>Nature Communications</em> 14 (June): 3445. <a href="https://doi.org/10.1038/s41467-023-39120-1">https://doi.org/10.1038/s41467-023-39120-1</a>.
+</div></div></section></div> ]]></description>
+  <category>paper</category>
+  <category>journal article</category>
+  <guid>https://sunjiugeng.github.io/posts/paper-title/senolytics.html</guid>
+  <pubDate>Fri, 09 Jun 2023 22:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

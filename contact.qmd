@@ -6,19 +6,18 @@ title-block-banner: false
 
 <center>
 
-**Quarto Academic**
+**Jiugeng Sun**
 
-School
+Scientific Assistant
 
-College
+Ecosystem Management (EM) Lab, Department of Environmental Systems Science
 
-University
+Interactive Visualization & Intelligence Augmentation (IVIA) Lab, Department of Computer Science
 
-Address: 
+ETH Zürich
 
-Phone: 
+CHN G 72 Universitätstrasse 16, 8092 Zürich, Switzerland
 
-E-mail: 
-
+jiugeng.sun@inf.ethz.ch 
 
 </center>

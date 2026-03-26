@@ -1,0 +1,201 @@
+---
+title: "ScotScape Visit"
+subtitle: "*A business trip that took me back to Scotland for landscape management*"
+author: "Jiugeng Sun"
+date: "2026-03-15"
+categories: [news]
+image: "/files/images/ScotScape.png"
+#css: /custom.css
+#draft: true
+---
+
+![Project picture of [ScotScape](https://negotiating-landscape-scotland.com/)](/files/images/ScotScape.png)
+
+## Project Background
+
+For years the research group [Ecosystem Management (EM) Lab](https://ecology.ethz.ch/the-group.html) that I work with has been wanting to develop a comprehensive toolkit that supports land managers, stakeholders, 
+and anyone involved in land use change with facilitating discussions, exploring ideas, and putting together land management plans. They started with the question on how to simplify landscape management in Scotland and other places,
+offer people an immersive experience where they can connect, discuss desired changes, and propose alternative landscape scenarios based on a shared vision. Thus they came up with the idea that 
+they could use strategy game to encourage people to participate and express their ideas.
+
+Usually they would start with understanding the desires of local **actors** regarding landscape management. They selected which actors would become playable characters in the game and identified the **resources** to feature in the game. 
+They then considered the choices each character would have, such as a farmer deciding what crops to plant and animals to raise. Next, they designed the underlying mechanics, including gameplay and rules, and translated these into 
+game components like the board (landscape), meeples (laborers), tokens (representing different crops, animals, and trees), and money. In the end, they would create the board game based on this. 
+
+People with different backgrounds join the workshop session, play the game, and finally collect insightful ideas during the debriefing session. This seems nice and good, yet they often had a problem during the debriefing session, 
+which is they could not always produce useful takeaways for the participants! In the strategy game session, they would typically run several rounds and tried to engage everyone to express their opinions. 
+This typically resulted in that the session mediator could not remember fully what had happened during the conversations. Multi-party dialogue is hard to track and implicit dynamics are not easy to analyse. 
+This was the moment when I finished my master thesis and my thesis supervisor, Menna, recommended me to the group, hoping we can build a visual analytical platform for discourse analysis on the multi-party dialogue data.   
+
+## Before the Visit
+
+I joined the team months before the trip and tried to understand how the researchers might establish their research questions or objectives from the Environmental science perspectives as this was a complete new experience to me. 
+The project got even more interesting to me when I realised this could take me back to Scotland again as I had been leaving and never back to Scotland for three years since I finished my bachelor degree at the University of Edinburgh :P
+
+I was happy but I also noticed some difficulties in implementing the toolkit for the local people. At the beginning, I realsied how complex the environmental topics could be when they do the workshops. 
+The motivation for the group is that they would love the participants to freely express all of their feelings and their decisions. The strategy game they developed was actually rather complex to me such that I could actually do very different things! 
+They just want AI to capture those but what are those exactly? In addition, the participants are allowed to walk around the chat with different people. There is not a very clear anchor point when I could manually programme it. 
+There are lots of research directions on this so-called discourse analysis (laugh). I realised I had to go and visit the local Scottish people to undertand what they really need. 
+Meanwhile I also ran some basic pipelines on the previous recorded discourse data and created lots of different possible visualisations. I wanted to go and present my idea to the local people and hopefully they could accept the ideas. 
+
+![Teaser image for discourse analysis](/files/images/ScotScape Teaser.png)
+
+## Activity Logs
+
+We visited many potential project partners over the week, including [**NatureScot**](https://www.nature.scot/), [**Glenkens**](https://glenkens.scot/), [**Galloway & Southern Ayrshire (GSA) Biosphere**](https://www.gsabiosphere.org.uk/), and [**Bioregioning Tayside**](https://bioregioningtayside.scot/). 
+
+[**NatureScot**](https://www.nature.scot/) is a Scottish statutory nature agency, working to improve the natural environment in Scotland and inspire everyone to care more about it, maintaining and enhancing biodiversity, geodiversity, and the natural elements of Scotland's landscapes and seascapes. 
+The EM Lab is in collaboration with NatureScot for the extension development of the [Natural Capital Tool](https://www.nature.scot/doc/natural-capital-tool), which is a decision support tool that facilitates a natural capital approach to land management in Scotland, that NatureScot spends years developing, particularly focusing on the landscape of Scotland. 
+The postdoctoral researcher, [Dr. Xuezhu Zhai](https://www.linkedin.com/in/xuezhu-zhai-9bb766264/), from the EM Lab, has been developing a 3D immersive visualisation interface for the facillitation of the citizen's engagement in the participatory workshops such that the users would enhance their experience and understanding of the landscape management. 
+I got to learn that assessing and calculating the natural capital indicators are non-trivial. NatureScot mainly works on the 2D map only, which could be a reliable toolkit for the ecology experts, but prevents the general public from fully benefitting it. 
+I genuinely believe that my colleague, [Dr. Zhai's](https://www.linkedin.com/in/xuezhu-zhai-9bb766264/) work could deeply change the way how people interact with the landscape. 
+The idea of combining the AI discourse analysis and 3D landscape intervention toolkit emerged between her and me. We are thinking whether there can be a even better way to automatically and immersively visualise the decisions of the participants during workshops so that it would provide as much educational information as possible. 
+
+[**Glenkens**](https://glenkens.scot/) refers to the network of community organisations centred on the Glenkens area of Dumfries and Galloway, anchored by the [Glenkens Community & Arts Trust (GCAT)](https://gcat.scot/). 
+[**GSA Biosphere**](https://www.gsabiosphere.org.uk/) is a registered Scottish charity and partnership organisation working across nearly 9,800 km² of southwest Scotland's land and sea, which is the largest [**UNESCO Biosphere**](https://www.unesco.org/en/mab/wnbr/about) in the UK, encompassing internationally important wildlife habitats, communities with distinct cultural identities, and historic landmarks.
+[**Bioregioning Tayside**](https://bioregioningtayside.scot/) is a Scottish organisation working to reframe how people relate to the places they inhabit through the lens of the bioregion. It has recently produced the first comprehensive bioregional strategy for ecological and cultural renewal within the Tay River System, guiding a transition from extractive and fragmented practices towards regenerative, place-based stewardship. 
+We together visited many people from the relevant organisations. This was a very unique experience to me as being a nerdy programmer from Computer Science discipline (joking, I am not nerdy :P). 
+I visited lots of the places that I have never been to, even though I stayed in Edinburgh for four years, mainly around the southwest part of Scotland, called by the people there, the land that is forgotten. 
+I presented my interface and explained the mechanisms in real deatils about how I envision this could help and benefit the people. 
+I surprisingly got a very positive feedback from the audience. Therefore, tech people are important! 
+One of the people frm Glenkens wrote to me afterwards, saying that *I was really impressed by the analysis tool - I confess I was very very sceptical when I read about it, having seen previous attempts at automated discourse analysis.* 
+
+People actually bought in the ideas! And also for the 3D immersive visualisation toolkit the participants would love to see it as they regarded the tool as an enhancement that could help their communications. 
+And they were grateful that we were prioritising their desires and needs. People were also very nice to us and would love to see more in general. 
+To come up with a good digital solution and make it really useful for everyone are hard, but using advanced technologies to tackle systematic issues like cultural marginalisation and economic disparities on a global scale would always be my ultimate goal. 
+I love to talk with the people, who truly believe that the land grows on them. The world is never getting better by the people who just play around but never grow the potatoes and build the trees, right?  
+This was a unique experience to me as I always said. I don't know how much I can do to help the people. Yet I will always carry this wherever I go. 
+
+I also wanna share some pictures we took along the journey. We were also invited to participate a workshop that was hosted in Blairgowrie. Enjoy the beauties of Scotland and get the spritis of Scotland :)
+
+## Photo Gallery
+
+```{=html}
+<style>
+  .scot-carousel {
+    max-width: 900px;
+    margin: 1rem auto 0 auto;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+    position: relative;
+  }
+
+  .scot-carousel-track {
+    display: flex;
+    overflow-x: hidden;
+    scroll-snap-type: x mandatory;
+    scroll-behavior: smooth;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .scot-carousel-track::-webkit-scrollbar {
+    height: 10px;
+  }
+
+  .scot-carousel-track::-webkit-scrollbar-thumb {
+    background: #c6c6c6;
+    border-radius: 999px;
+  }
+
+  .scot-carousel-item {
+    flex: 0 0 100%;
+    scroll-snap-align: start;
+    margin: 0;
+    background: #f7f7f7;
+  }
+
+  .scot-carousel-item img {
+    width: 100%;
+    height: 520px;
+    object-fit: cover;
+    display: block;
+  }
+
+  .scot-carousel-item figcaption {
+    padding: 0.65rem 0.9rem 0.8rem 0.9rem;
+    font-size: 0.95rem;
+  }
+
+  .scot-carousel-controls {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    width: 100%;
+    transform: translateY(-50%);
+    display: flex;
+    justify-content: space-between;
+    padding: 0 0.7rem;
+    pointer-events: none;
+  }
+
+  .scot-carousel-btn {
+    width: 44px;
+    height: 44px;
+    border: 1px solid rgba(255, 255, 255, 0.85);
+    background: rgba(30, 30, 30, 0.35);
+    color: #fff;
+    border-radius: 10px;
+    font-size: 1.6rem;
+    line-height: 1;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    pointer-events: auto;
+    backdrop-filter: blur(1.5px);
+  }
+
+  .scot-carousel-btn:hover {
+    background: rgba(30, 30, 30, 0.5);
+  }
+</style>
+
+<div class="scot-carousel" aria-label="Scotland trip photo gallery" id="scot-carousel">
+  <div class="scot-carousel-track" id="scot-carousel-track">
+    <figure class="scot-carousel-item">
+      <img src="/files/images/ScotScape 1.jpg" alt="Scotland trip photo 1">
+      <figcaption>Edinburgh Waverley Station</figcaption>
+    </figure>
+    <figure class="scot-carousel-item">
+      <img src="/files/images/ScotScape 2.jpg" alt="Scotland trip photo 2">
+      <figcaption>Wild Sheeps from Galloway. They stare at us for food :P</figcaption>
+    </figure>
+    <figure class="scot-carousel-item">
+      <img src="/files/images/ScotScape 3.jpg" alt="Scotland trip photo 3">
+      <figcaption>Workshop in Blairgowrie</figcaption>
+    </figure>
+    <figure class="scot-carousel-item">
+      <img src="/files/images/ScotScape 4.png" alt="Scotland trip photo 4">
+      <figcaption>meeting with Glenkens and Bioregioning Tayside at Colmonell</figcaption>
+    </figure>
+    <figure class="scot-carousel-item">
+      <img src="/files/images/ScotScape 5.jpg" alt="Scotland trip photo 4">
+      <figcaption>nice weather and cafe in Perth</figcaption>
+    </figure>
+  </div>
+  <div class="scot-carousel-controls">
+    <button type="button" class="scot-carousel-btn" id="scot-prev" aria-label="Previous image">&#8249;</button>
+    <button type="button" class="scot-carousel-btn" id="scot-next" aria-label="Next image">&#8250;</button>
+  </div>
+</div>
+
+<script>
+  (function () {
+    const track = document.getElementById("scot-carousel-track");
+    const slides = track ? track.querySelectorAll(".scot-carousel-item") : [];
+    const prevBtn = document.getElementById("scot-prev");
+    const nextBtn = document.getElementById("scot-next");
+    if (!track || !prevBtn || !nextBtn || slides.length === 0) return;
+
+    let idx = 0;
+    const goTo = (i) => {
+      idx = (i + slides.length) % slides.length;
+      slides[idx].scrollIntoView({ behavior: "smooth", inline: "start", block: "nearest" });
+    };
+
+    prevBtn.addEventListener("click", () => goTo(idx - 1));
+    nextBtn.addEventListener("click", () => goTo(idx + 1));
+  })();
+</script>
+```
