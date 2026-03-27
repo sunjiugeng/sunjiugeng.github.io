@@ -70,7 +70,8 @@ My research interests lie at the intersection of **visual analytics** and **soci
 I am particularly interested in how visualisation and human-AI collaboration can surface latent patterns in conversation, such as evolving coalitions, alignment shifts, and argumentative structures, 
 in ways that are both computationally tractable and cognitively manageable for human analysts. I am also working on human-AI **co-adptive guidance** visualisation toolkit for **landscape intervention**. More broadly, I am interested in **low-resourced NLP** and **AI for social good**, where I believe that 
 computational technology should serve underrepresented communities, and that computational methods should be applied to problems with real societal and ecological stakes. 
-I am keen on promoting **AI literacy** for all. Please contact me if you are interested in collaborating!
+I am keen on promoting **AI literacy** for all. I am also leading the project, [AI Drivers License](https://icain.org/index.html#pilot-projects-part), supported by [ICAIN](https://icain.org/index.html), where I am designing metaphor cards to promote AI Literacy. 
+Please contact me if you are interested in collaborating!
 
 I love travelling and I love music :P
 
