@@ -27,9 +27,9 @@ Smer-Barreto, V.^\*^, Quintanilla, A., Elliott, R. J. R., Dawson, J. C., **Sun, 
 
 ## Conference Workshops & Findings
 
-Ni, W., **Sun, J.**, Liu, Y., & El-Assady, M. (2026). [Cross-Cultural Simulation of Citizen Emotional Responses to Bureaucratic Red Tape Using LLM Agents](https://chi2026.acm.org/workshops/accepted/#w45-polisimchi-2026-llm-agent-simulation-for-policy). 
-*PoliSim@CHI 2026: LLM Agent Simulation for Policy*. DOI coming soon.
-<div></div>
+Ni, W., **Sun, J.**, Liu, Y., & El-Assady, M. (2026). [Cross-Cultural Simulation of Citizen Emotional Responses to Bureaucratic Red Tape Using LLM Agents](posts/paper-title/redtape-llm.qmd). 
+*PoliSim@CHI 2026: LLM Agent Simulation for Policy* (to appear); [arXiv:2604.12545](https://arxiv.org/abs/2604.12545). \[[pdf](https://arxiv.org/pdf/2604.12545.pdf)\] \[[doi](https://doi.org/10.48550/arXiv.2604.12545)\] \[[workshop](https://chi2026.acm.org/workshops/accepted/#w45-polisimchi-2026-llm-agent-simulation-for-policy)\] <div data-badge-popover="right" data-badge-type="1" data-doi="10.48550/arXiv.2604.12545" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
 **Key Words**: LLMs, Agent-Simulation, Public Administration
 
 <hr style="width:85%">
