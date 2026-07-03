@@ -59,7 +59,7 @@ listing:   # Comment the listing section and delete corresponding lines in the i
 
 :::{#hero-heading}
 
-I am a scientific assistant at [ETH Zürich](https://ethz.ch/en.html), jointly affiliated with [Ecosystem Management (EM) Group](https://ecology.ethz.ch/the-group.html), at the [Institute of Terrestrial Ecosystems (ITES)](https://ites.ethz.ch/), [Department of Environmental Systems Science (D-​USYS)](https://usys.ethz.ch/en/), 
+I am a research scientist at [ETH Zürich](https://ethz.ch/en.html), jointly affiliated with [Ecosystem Management (EM) Group](https://ecology.ethz.ch/the-group.html), at the [Institute of Terrestrial Ecosystems (ITES)](https://ites.ethz.ch/), [Department of Environmental Systems Science (D-​USYS)](https://usys.ethz.ch/en/), 
 and [Interactive Visualisation & Intelligence Augmentation (IVIA) Lab](https://ivia.ch/), at the [Visual Computing Institute](https://ivc.ethz.ch/), [Department of Computer Science](https://inf.ethz.ch/).
 I am co-supervised by [Prof. Jaboury Ghazoul](https://usys.ethz.ch/en/people/profile.jghazoul.html) and [Prof. Mennatallah El-Assady](https://el-assady.com/). 
 
