@@ -2,6 +2,7 @@
   {
     "listing": "/posts.html",
     "items": [
+      "/posts/paper-title/urban-ai-restoration.html",
       "/posts/paper-title/redtape-llm.html",
       "/posts/news-title/scotvisit.html",
       "/posts/paper-title/dialingle.html",
@@ -16,6 +17,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/paper-title/urban-ai-restoration.html",
       "/posts/paper-title/redtape-llm.html",
       "/posts/news-title/scotvisit.html",
       "/posts/paper-title/dialingle.html",

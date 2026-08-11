@@ -15,6 +15,12 @@ Notes: ^\*^ corresponding author; ^†^ equal contribution.
 
 ## Journal Papers
 
+Zhai, X., Bach, P. M., Ghazoul, J., Casanelles Abella, J., Buchecker, M., Giger Dray, A., **Sun, J.**, & Kleinschroth, F. (2026). [Artificial intelligence for urban ecosystem restoration: reshaping social–ecological–technological interactions](posts/paper-title/urban-ai-restoration.qmd). *npj Urban Sustainability*. \[[doi](https://doi.org/10.1038/s42949-026-00453-7)\] <span class="__dimensions_badge_embed__" data-doi="10.1038/s42949-026-00453-7" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s42949-026-00453-7" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+**Key Words**: Artificial Intelligence; Urban Ecology; Participatory Design
+
+<hr style="width:85%">
+
 Smer-Barreto, V.^\*^, Quintanilla, A., Elliott, R. J. R., Dawson, J. C., **Sun, J.**, Campa, V. M., Lorente-Macias, A., Unciti-Broceta, A., Carragher, N. O., Acosta, J. C., & Oyarzún, D. A. (2023). [Discovery of senolytics using machine learning](posts/paper-title/senolytics.qmd). *Nature Communications*, 14, 3445. \[[pdf](https://www.nature.com/articles/s41467-023-39120-1.pdf)\] <span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-023-39120-1" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41467-023-39120-1" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 **Key Words**: Applied Machine Learning; Drug Discovery
