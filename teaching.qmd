@@ -5,6 +5,32 @@ title-block-banner: false
 ---
 
 
+## Vibe Coding Workshop
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](files/images/eth_logo.png)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+***Ecosystem Management Group, ETH Zürich***
+
+*Workshop*: [Summer 2026](/posts/news-title/vibe-coding-workshop.html)
+
+Together with Erika Soans, I ran a hands-on *Vibe Coding* workshop for the Ecosystem Management Group
+at ETH Zürich, walking through how to build and iterate on small projects together with AI coding assistants.
+The slides cover the tooling, the workflow, and a worked example from the session. Use the arrows to scroll through the slides below.
+
+{{< include /files/includes/_vibe-coding-slides.qmd >}}
+
+:::
+
+:::
+
+
 ## Fundamentals of Web Engineering
 
 ::: {.grid}

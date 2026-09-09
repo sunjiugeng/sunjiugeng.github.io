@@ -2,6 +2,7 @@
   {
     "listing": "/posts.html",
     "items": [
+      "/posts/news-title/vibe-coding-workshop.html",
       "/posts/paper-title/urban-ai-restoration.html",
       "/posts/paper-title/redtape-llm.html",
       "/posts/news-title/scotvisit.html",
@@ -17,6 +18,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/news-title/vibe-coding-workshop.html",
       "/posts/paper-title/urban-ai-restoration.html",
       "/posts/paper-title/redtape-llm.html",
       "/posts/news-title/scotvisit.html",

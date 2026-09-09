@@ -1,0 +1,21 @@
+---
+title: "Vibe Coding Workshop"
+subtitle: "*Hands-on session on coding with AI assistants*"
+author:
+  - "Jiugeng Sun"
+  - "Erika Soans"
+date: "2026-08-20"
+categories: [news]
+image: "vibe-coding-cover.png"
+#draft: true
+---
+
+![Title slide of the Vibe Coding workshop](vibe-coding-cover.png)
+
+I ran a hands-on *Vibe Coding* workshop for the Ecosystem Management Group at ETH Zürich, walking through how to build and iterate on small projects together with AI coding assistants. The slides cover the tooling, the workflow, and a worked example from the session.
+
+## Workshop Slides
+
+Use the arrows to scroll through the slides.
+
+{{< include /files/includes/_vibe-coding-slides.qmd >}}

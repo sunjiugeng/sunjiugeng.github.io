@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - files/vibe-coding-workshop.pdf
+    - files/vibe-coding-slides/
 
 # Meta
 description-meta: "Quarto Academic Website Template adapted by Jiugeng Sun"
