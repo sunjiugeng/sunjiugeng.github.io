@@ -1,7 +1,7 @@
 ---
 title: "Cross-Cultural Simulation of Citizen Emotional Responses to Bureaucratic Red Tape Using LLM Agents"
 description: "Evaluation framework for LLM agents’ emotional responses to bureaucratic red tape across cultures; introduces RAMO, an interactive simulator aligned with human studies."
-subtitle: "*PoliSim@CHI 2026 (CHI 2026 Workshop)*"
+subtitle: "*PoliSim Workshop, Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (CHI EA '26)*"
 author:
   - name: Wanchun Ni
   - name: Jiugeng Sun
