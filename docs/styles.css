@@ -9,6 +9,12 @@
   text-decoration: none;
   color: #4a97e0;
 }
+/* Don't recolor listing cards (news/papers): their whole card is a link,
+   so keep their text in the default color. */
+#quarto-document-content .quarto-listing a,
+#quarto-document-content .quarto-listing a:hover {
+  color: inherit;
+}
 
 /* Small inline institution logos next to university names */
 .inst-logo {
@@ -20,6 +26,6 @@
 
 /* SEC logo a bit smaller than the rest */
 .inst-logo--sec {
-  height: 1.0em;
+  height: 1.5em;
   vertical-align: -0.4em;
 }
