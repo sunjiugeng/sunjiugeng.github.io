@@ -24,8 +24,6 @@ Together with Erika Soans, I ran a hands-on *Vibe Coding* workshop for the Ecosy
 at ETH Zürich, walking through how to build and iterate on small projects together with AI coding assistants.
 The slides cover the tooling, the workflow, and a worked example from the session. Use the arrows to scroll through the slides below.
 
-{{< include /files/includes/_vibe-coding-slides.qmd >}}
-
 :::
 
 :::
