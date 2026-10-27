@@ -6,7 +6,7 @@
   text-decoration: none;
 }
 #quarto-document-content a:not(.about-link):not(.btn):not(.anchorjs-link):hover {
-  text-decoration: underline;
+  text-decoration: none;
   color: #12518f;
 }
 
