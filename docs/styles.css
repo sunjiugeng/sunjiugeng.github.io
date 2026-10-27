@@ -10,9 +10,10 @@
   color: #4a97e0;
 }
 /* Don't recolor listing cards (news/papers): their whole card is a link,
-   so keep their text in the default color. */
-#quarto-document-content .quarto-listing a,
-#quarto-document-content .quarto-listing a:hover {
+   so keep their text in the default color. Selector must out-specify the
+   body-link rule above (which carries three :not() clauses). */
+#quarto-document-content .quarto-listing a:not(.about-link):not(.btn):not(.anchorjs-link),
+#quarto-document-content .quarto-listing a:not(.about-link):not(.btn):not(.anchorjs-link):hover {
   color: inherit;
 }
 
