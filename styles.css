@@ -1,5 +1,15 @@
 /* css styles */
 
+/* Body-text hyperlink style: softened blue, underline only on hover */
+#quarto-document-content a:not(.about-link):not(.btn):not(.anchorjs-link) {
+  color: #1a6fc4;
+  text-decoration: none;
+}
+#quarto-document-content a:not(.about-link):not(.btn):not(.anchorjs-link):hover {
+  text-decoration: underline;
+  color: #12518f;
+}
+
 /* Small inline institution logos next to university names */
 .inst-logo {
   height: 2.4em;
