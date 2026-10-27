@@ -59,12 +59,12 @@ listing:   # Comment the listing section and delete corresponding lines in the i
 
 :::{#hero-heading}
 
-I am a research scientist at [ETH Zürich](https://ethz.ch/en.html), jointly affiliated with [Ecosystem Management (EM) Group](https://ecology.ethz.ch/the-group.html), at the [Institute of Terrestrial Ecosystems (ITES)](https://ites.ethz.ch/), [Department of Environmental Systems Science (D-​USYS)](https://usys.ethz.ch/en/), 
+I am a research scientist at [ETH Zürich](https://ethz.ch/en.html)<img src="files/images/eth_logo.png" alt="ETH Zürich logo" class="inst-logo">, jointly affiliated with [Ecosystem Management (EM) Group](https://ecology.ethz.ch/the-group.html), at the [Institute of Terrestrial Ecosystems (ITES)](https://ites.ethz.ch/), [Department of Environmental Systems Science (D-​USYS)](https://usys.ethz.ch/en/), 
 and [Interactive Visualisation & Intelligence Augmentation (IVIA) Lab](https://ivia.ethz.ch/), at the [Visual Computing Institute](https://ivc.ethz.ch/), [Department of Computer Science](https://inf.ethz.ch/).
 I am co-supervised by [Prof. Jaboury Ghazoul](https://usys.ethz.ch/en/people/profile.jghazoul.html) and [Prof. Mennatallah El-Assady](https://el-assady.com/). 
 
-Prior to this, I gained my Master degree in **Computer Science** at [Department of Computer Science](https://inf.ethz.ch/), [ETH Zürich](https://ethz.ch/en.html), with a specialisation on Visual and Interactive Computing. 
-I obtained my Bachelor degree in **Artificial Intelligence and Computer Science** at [School of Informatics](https://informatics.ed.ac.uk/), [University of Edinburgh](https://www.ed.ac.uk/), where I worked with [Prof. Diego Oryazún](https://homepages.inf.ed.ac.uk/doyarzun/people/diego/) in [Biomolecular Control Group](https://homepages.inf.ed.ac.uk/doyarzun/).
+Prior to this, I gained my Master degree in **Computer Science** at [Department of Computer Science](https://inf.ethz.ch/), [ETH Zürich](https://ethz.ch/en.html)<img src="files/images/eth_logo.png" alt="ETH Zürich logo" class="inst-logo">, with a specialisation on Visual and Interactive Computing. 
+I obtained my Bachelor degree in **Artificial Intelligence and Computer Science** at [School of Informatics](https://informatics.ed.ac.uk/), [University of Edinburgh](https://www.ed.ac.uk/)<img src="files/images/University_of_Edinburgh.png" alt="University of Edinburgh logo" class="inst-logo">, where I worked with [Prof. Diego Oryazún](https://homepages.inf.ed.ac.uk/doyarzun/people/diego/) in [Biomolecular Control Group](https://homepages.inf.ed.ac.uk/doyarzun/).
 
 I love travelling and I love music :P
 

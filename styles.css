@@ -1,1 +1,9 @@
 /* css styles */
+
+/* Small inline institution logos next to university names */
+.inst-logo {
+  height: 1.3em;
+  width: auto;
+  vertical-align: -0.3em;
+  margin: 0 0.1em 0 0.25em;
+}
